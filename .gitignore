@@ -6,6 +6,7 @@ __pycache__/
 # Folders
 git_nosync/
 LS/
+DKP_calculations/files/LS_daily_composites/*.parquet
 
 # Files
 *.DS_Store
